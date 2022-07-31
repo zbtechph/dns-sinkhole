@@ -57,3 +57,5 @@
 ||login.windows.net^$important
 ||msftconnecttest.com^$important
 
+# regex
+/\.(ru|cn)$/
