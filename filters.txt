@@ -32,6 +32,14 @@
 ||guppy.live^$important
 ||mobhey.com^$important
 ||weathercn.com^$important
+||atlas.samsung.com^$important
+||www.googleadservices.com
+||builderbuddiesoneservertwo.com^$important
+||peacecorps.gov^$important
+||gameloft.com^$important
+||imdap-sea.alipay.com^$important
+||ilog-sea-aliyun.alipayplus.com^$important
+||baidu.com^$important
 
 # WINDOWS UPDATE
 ||emdl.ws.microsoft.com^$important
@@ -40,3 +48,12 @@
 ||update.microsoft.com^$important
 ||ws.microsoft.com^$important
 ||data.microsoft.com^$important
+
+# MICROSOFT RELATED
+||evoke-windowsservices-tas.msedge.net^$important
+||adl.windows.com^$important
+||wns.windows.com^$important
+||core.windows.net^$important
+||login.windows.net^$important
+||msftconnecttest.com^$important
+
