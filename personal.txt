@@ -1,0 +1,35 @@
+
+# WINDOWS UPDATE
+||emdl.ws.microsoft.com^$important
+||mp.microsoft.com^$important
+||windowsupdate.com^$important
+||update.microsoft.com^$important
+||ws.microsoft.com^$important
+||data.microsoft.com^$important
+
+# MICROSOFT RELATED
+||evoke-windowsservices-tas.msedge.net^$important
+||adl.windows.com^$important
+||wns.windows.com^$important
+||core.windows.net^$important
+||login.windows.net^$important
+||msftconnecttest.com^$important
+
+#temp
+||miniclippt.com^$important
+#||googlevideo.com^$client=Kids|FAMILY
+#||fna.fbcdn.net^$client=Kids|FAMILY
+
+# regex
+# /p[0-9]+\-buy\.itunes\.apple\.com/
+/\.(ru|cn)$/
+
+# stripe
+||stripe.com^$important
+||stripe.network^$important
+
+## whitelist
+@@||s.youtube.com^$important
+@@||enhance.com^$important
+@@||nflxso.net^$important
+@@||t.co^$important
